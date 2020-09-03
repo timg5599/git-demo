@@ -1,3 +1,3 @@
 # git demo
 
-Hello
+Hello, world from cs 506!
